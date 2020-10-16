@@ -24,4 +24,4 @@ Here you can add my repo to Cydia, Sileo, Zebra and Installer 5. Also you can se
 
 # Reverse Theme
 
-![Image](https://imgur.com/AHnu4MX)
+![Image](blob:https://imgur.com/c1eb0b35-90a3-4dff-8e0e-ee3fad85ae48)
