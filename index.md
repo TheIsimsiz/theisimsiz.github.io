@@ -1,4 +1,4 @@
-## Welcome to my GitHub repository!
+## Welcome To My Website!
 
 Here you can add my repo to Cydia, Sileo, Zebra and Installer 5. Also you can see my Tweaks/Themes!
 
@@ -9,19 +9,11 @@ Here you can add my repo to Cydia, Sileo, Zebra and Installer 5. Also you can se
 
 
 
-### Cydia
 
 
 
 
-### Sileo
+### <Images here>
 
 
-
-
-### Zebra
-
-
-
-
-### Installer 5
+[Link](www.google.com.tr)
