@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub repository!
 
-You can use the [editor on GitHub](https://github.com/TheIsimsiz/theisimsiz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+```Here you can add my repo to Cydia, Sileo, Zebra and Installer 5. Also you can see my Tweaks/Themes!```
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
